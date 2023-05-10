@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋🏽
+
+I'm currently busy writing my first book, Afrocentury, but am still contributing to various projects that I actively maintain.
+Some that may be of interest to you include:
+- [Flash Fluency](https://github.com/jbunke/flashfluency), a spaced repetition text-based flashcard program
+- [Translation](https://github.com/jbunke/translation), a simple platforming physics game with a level editor
+- [JBJGL](https://github.com/jbunke/jordan-bunke-java-game-library), my personal library for Java game development
+- [Wordle+](https://github.com/jbunke/wordle-plus), my implementation of Wordle, extended to optionally play with 4-, 6-, and 7-letter English words
+
+The best way to get in touch with me is via email :)
 
 <!--
 **jbunke/jbunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
