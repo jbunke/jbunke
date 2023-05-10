@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm currently busy writing my first book, Afrocentury, but am still contributing to various projects that I actively maintain.
+I'm currently writing my first book, Afrocentury, but am still contributing to various projects that I actively maintain.
 Some that may be of interest to you include:
 - [Flash Fluency](https://github.com/jbunke/flashfluency), a spaced repetition text-based flashcard program
 - [Translation](https://github.com/jbunke/translation), a simple platforming physics game with a level editor
