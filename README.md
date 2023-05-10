@@ -7,6 +7,8 @@ Some that may be of interest to you include:
 - [JBJGL](https://github.com/jbunke/jordan-bunke-java-game-library), my personal library for Java game development
 - [Wordle+](https://github.com/jbunke/wordle-plus), my implementation of Wordle, extended to optionally play with 4-, 6-, and 7-letter English words
 
+You can download my published games [here](https://flinkerflitzer.itch.io/) and hire me to make a game or write software for you [here](https://www.fiverr.com/jordanbunke).
+
 The best way to get in touch with me is via email :)
 
 <!--
