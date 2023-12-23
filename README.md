@@ -2,10 +2,11 @@
 
 I'm currently writing my first book, Afrocentury, but I still regularly contribute to various projects that I maintain.
 Some that may be of interest to you include:
-- [Flash Fluency](https://github.com/jbunke/flashfluency), a spaced repetition text-based flashcard program
+- [Stipple Effect](https://github.com/jbunke/stipple-effect), a pixel art editor and animator
 - [Translation](https://github.com/jbunke/translation), a simple platforming physics game with a level editor
-- [Delta Time](https://github.com/jbunke/delta-time), my personal library for Java game development (underpins various other projects, including Translation and Wordle+)
+- [Delta Time](https://github.com/jbunke/delta-time), my personal library for Java game and GUI program development (underpins various other projects including Stipple Effect and Translation)
 - [Wordle+](https://github.com/jbunke/wordle-plus), my implementation of Wordle, extended to optionally play with 4-, 6-, and 7-letter English words
+- [Flash Fluency](https://github.com/jbunke/flashfluency), a spaced repetition text-based flashcard program
 
 You can download my published games [here](https://flinkerflitzer.itch.io/) and hire me to make a game or write software for you [here](https://www.fiverr.com/jordanbunke).
 
