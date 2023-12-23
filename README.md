@@ -4,7 +4,7 @@ I'm currently writing my first book, Afrocentury, but I still regularly contribu
 Some that may be of interest to you include:
 - [Stipple Effect](https://github.com/jbunke/stipple-effect), a pixel art editor and animator
 - [Translation](https://github.com/jbunke/translation), a simple platforming physics game with a level editor
-- [Delta Time](https://github.com/jbunke/delta-time), my personal library for Java game and GUI program development (underpins various other projects including Stipple Effect and Translation)
+- [Delta Time](https://github.com/jbunke/delta-time), my personal library for Java game and GUI program development (used by Stipple Effect, Translation and more)
 - [Wordle+](https://github.com/jbunke/wordle-plus), my implementation of Wordle, extended to optionally play with 4-, 6-, and 7-letter English words
 - [Flash Fluency](https://github.com/jbunke/flashfluency), a spaced repetition text-based flashcard program
 
