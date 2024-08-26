@@ -1,8 +1,8 @@
 ### Welcome to my GitHub!
 
-I am currently working on [Stipple Effect](https://github.com/jbunke/stipple-effect), a pixel art editor with animation capabilities and a rich scripting ecosystem.
+I'm currently working on [Stipple Effect](https://github.com/jbunke/stipple-effect), a pixel art editor with animation capabilities and a rich scripting ecosystem.
 
-You can download my published games and software [here](https://flinkerflitzer.itch.io/).
+You can buy or download my published games and software [here](https://flinkerflitzer.itch.io/).
 
 The best way to get in touch with me is via email :)
 
