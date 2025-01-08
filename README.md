@@ -2,6 +2,8 @@
 
 I'm currently working on [*Stipple Effect*](https://github.com/stipple-effect/stipple-effect), a pixel art editor with animation capabilities and a rich scripting ecosystem.
 
+*Stipple Effect* uses [*DeltaScript*](https://github.com/jbunke/deltascript) as its scripting language, which I designed and implemented myself.
+
 You can find out more about my work on [my website](https://jbunke.github.io).
 
 <!--
