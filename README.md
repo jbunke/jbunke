@@ -1,8 +1,10 @@
 ### Welcome to my GitHub!
 
-I'm currently working on [*Stipple Effect*](https://github.com/stipple-effect/stipple-effect), a pixel art editor with animation capabilities and a rich scripting ecosystem.
+I'm currently working on:
+* [*Top Down Sprite Maker (TDSM)*](https://github.com/jbunke/tdsm), a pixel art character customization program that supports multiple sprite styles
+* [*Stipple Effect*](https://github.com/stipple-effect/stipple-effect), a pixel art editor with animation capabilities and a rich scripting ecosystem
 
-*Stipple Effect* uses [*DeltaScript*](https://github.com/jbunke/deltascript) as its scripting language, which I designed and implemented myself.
+Both *TDSM* and *Stipple Effect* use [*DeltaScript*](https://github.com/jbunke/deltascript) as their scripting language, which I designed and implemented myself.
 
 You can find out more about my work on [my website](https://jbunke.github.io).
 
